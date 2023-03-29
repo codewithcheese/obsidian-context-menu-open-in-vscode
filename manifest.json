@@ -1,0 +1,9 @@
+{
+  "id": "obsidian-context-menu-open-in-vscode",
+  "name": "Context Menu: Open in VS Code",
+  "version": "1.0.0",
+  "description": "Adds a context menu option to open the selected file or directory in Visual Studio Code",
+  "author": "codewithcheese",
+  "minAppVersion": "0.9.0",
+  "main": "main.js"
+}
